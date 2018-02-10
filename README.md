@@ -1,0 +1,2 @@
+# VSBouyomi
+VisualStudioから棒読みちゃんを喋らせるやつです
