@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VsBouyomiConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BuildDone>
+    <Text>ビルド成功です</Text>
+    <Immediate>false</Immediate>
+  </BuildDone>
+  <BuildFaild>
+    <Text />
+    <Immediate>false</Immediate>
+  </BuildFaild>
+  <BuildBegin>
+    <Text />
+    <Immediate>false</Immediate>
+  </BuildBegin>
+  <StartupComplete>
+    <Text />
+    <Immediate>false</Immediate>
+  </StartupComplete>
+  <BeginShutdown>
+    <Text />
+    <Immediate>false</Immediate>
+  </BeginShutdown>
+  <Opened>
+    <Text />
+    <Immediate>false</Immediate>
+  </Opened>
+  <Closing>
+    <Text />
+    <Immediate>false</Immediate>
+  </Closing>
+  <ExceptionNotHandled>
+    <Text />
+    <Immediate>false</Immediate>
+  </ExceptionNotHandled>
+  <ExceptionThrown>
+    <Text />
+    <Immediate>false</Immediate>
+  </ExceptionThrown>
+  <EnterDebugger>
+    <Text />
+    <Immediate>false</Immediate>
+  </EnterDebugger>
+  <EnterDesign>
+    <Text />
+    <Immediate>false</Immediate>
+  </EnterDesign>
+  <EnterRunMode>
+    <Text />
+    <Immediate>false</Immediate>
+  </EnterRunMode>
+  <IPAddress>127.0.0.1</IPAddress>
+  <Port>50001</Port>
+</VsBouyomiConfigData>
